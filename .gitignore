@@ -1,0 +1,7 @@
+.vs/
+EquationParser.sln
+EquationParser/bin
+EquationParser/obj
+EquationParser/Properties
+EquationParser/App.config
+EquationParser/EquationParser.csproj
